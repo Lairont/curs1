@@ -1,0 +1,7 @@
+D:\215\FitnessClub\bin\Debug\FitnessClub.exe.config
+D:\215\FitnessClub\bin\Debug\FitnessClub.exe
+D:\215\FitnessClub\bin\Debug\FitnessClub.pdb
+D:\215\FitnessClub\obj\Debug\FitnessClub.csproj.AssemblyReference.cache
+D:\215\FitnessClub\obj\Debug\FitnessClub.csproj.CoreCompileInputs.cache
+D:\215\FitnessClub\obj\Debug\FitnessClub.exe
+D:\215\FitnessClub\obj\Debug\FitnessClub.pdb
